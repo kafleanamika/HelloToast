@@ -1,1 +1,2 @@
-![](app/src/main/res/drawable-v24/hellotoastchallenge.gif)
+![](hellotoastchallenge.gif)
+![](hellotoast.png)
